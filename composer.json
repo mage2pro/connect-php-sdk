@@ -1,6 +1,6 @@
 {
     "name": "mage2pro/square-php-sdk",
-    "version": "2.0.3",
+    "version": "2.0.4",
     "description": "PHP client library for the Square Connect v2 API",
     "keywords": [
         "swagger",
